@@ -1,0 +1,1 @@
+Command: PowerShell -ExecutionPolicy Bypass -File .\InstallChrome.ps1
